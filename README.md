@@ -1,1 +1,1 @@
-# datamining2022
+# my data mining homeworks
